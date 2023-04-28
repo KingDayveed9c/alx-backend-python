@@ -1,1 +1,2 @@
-uniqueel variable annotation
+Python - variable Annotation
+Author: David Adejumo
